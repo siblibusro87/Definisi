@@ -3,8 +3,8 @@ home: true
 heroImage: ""
 heroText: Definisi.co.id
 tagline: Website keren untuk para pencari defisnisi dengan berbagai sumber.
-actionText: Sholawat →
-actionLink: /sholawat/
+actionText: Browse →
+actionLink: /definisi/
 features:
   - details: Daftar Kumpulan Doa Harian yang biasa di amalkan sehari-hari
     title: Doa Harian
